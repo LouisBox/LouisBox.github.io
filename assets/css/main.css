@@ -2043,6 +2043,12 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 	}
+	
+	.my_thumbnail{
+	  border-radius: 0.35em;
+		display: inline-block;
+		position: relative;
+	}
 
 		.image:before {
 			-moz-transition: opacity 0.2s ease-in-out;
